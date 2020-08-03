@@ -13,7 +13,7 @@
 5. *React Router* 
 6. *Axios*
 7. *Styled Components*
-8. *Material UI*: usado para estilizar botões e inputs.
+8. *Material UI*: usado para estilizar botões.
 
 
 ### Páginas e funcionalidades
